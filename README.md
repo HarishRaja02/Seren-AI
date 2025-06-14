@@ -1,8 +1,5 @@
 Here’s a professional `README.md` for your AI Personal Assistant project. It explains the purpose, current features, setup instructions, and future development (including HTML/CSS/JS + FastAPI integration):
 
----
-
-````markdown
 # 🤖 AI Personal Assistant (Ongoing Project)
 
 This is an intelligent **AI Personal Assistant** application developed using **Streamlit** and powered by **Groq's LLaMA 3 API**. It can **remember the user**, provide **location-based responses**, store **reminders and personal notes**, fetch **Chrome browsing history**, list **recently opened files**, and show **system information** — all in an easy-to-use chat-like interface.
