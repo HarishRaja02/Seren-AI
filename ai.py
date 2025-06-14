@@ -11,7 +11,7 @@ from typing import Dict, List, Optional, Union
 import tempfile
 
 # ----------- CONFIG -----------
-GROQ_API_KEY = "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"  # Replace with your actual Groq API key
+GROQ_API_KEY = ""  # Replace with your actual Groq API key
 MEMORY_FILE = "assistant_memory.json"
 REMINDERS_FILE = "reminders.json"
 NOTES_FILE = "notes.json"
